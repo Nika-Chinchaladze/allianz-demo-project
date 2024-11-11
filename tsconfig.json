@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "./"
+  },
+  "include": [
+    "tests/**/*.ts",
+    "playwright.config.ts",
+    "eslint.config.mjs",
+    ".prettierrc",
+    ".prettierignore"
+  ],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,17 @@
+{
+  "userCredentials": {
+    "username": "tRWdoPQux4Plgk49OPjV6TWjrX1rlRoC",
+    "password": "zygr7Ajz8oC7tMnI"
+  },
+  "userLoginData": {
+    "scope": "openid user",
+    "claims": {
+      "sub": "b816dd51-1c97-4ba6-9166-544837ce8b0a",
+      "aud": "widget",
+      "email": "altairtest581@gmail.com",
+      "given_name": "Hellow",
+      "family_name": "World",
+      "residence": "FR"
+    }
+  }
+}
